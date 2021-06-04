@@ -73,8 +73,8 @@ body {
   flex-direction: row;
 }
 .aboutMePic {
-  width: 150px;
-  height:150px;
+  width: 220px;
+  height:110px;
   border-radius: 50%;
   border: 1px solid lightblue;
   margin: 10px;
