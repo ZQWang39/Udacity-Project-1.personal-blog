@@ -1,0 +1,22 @@
+@media (min-width: 1000px) {
+  .homeContainer {
+    grid-template-rows: 22% auto 5%;
+  }
+
+  .posts {
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding:50px;
+  }
+
+  .container {
+    min-height: 1200px;
+  }
+}
+
+@media (max-width: 550px) {
+  .tabContainer {
+    padding: 20px 0;
+  }
+}

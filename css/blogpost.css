@@ -1,0 +1,60 @@
+.postContainer{
+  background-color: #ffe6f2;
+  display: grid;
+  grid-template-rows: 200px 1fr 50px;
+  grid-gap: 25px;
+  grid-template-areas:
+    "hd"
+    "post"
+    "footer";
+}
+
+.postHeader {
+  grid-area: hd;
+  display: flex;
+  flex-direction: column;
+  min-height: 300px;
+  max-width: 120vw;
+}
+
+.bannerImg {
+  height: 80%;
+  object-fit: cover;
+}
+
+.authorContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.authorContainer  p {
+  margin: 10px;
+  color: black;
+}
+
+.authorContainer span {
+  color: grey;
+}
+
+.authorImg {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid lightblue;
+  margin: 3px;
+}
+.sukiyakiSong{
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+}
+
+.post {
+  grid-area: post;
+  width: 80%;
+  max-width: 900px;
+  padding: 0 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
