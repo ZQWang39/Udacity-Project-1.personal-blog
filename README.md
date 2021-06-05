@@ -9,9 +9,11 @@ This project requires creating HTML and CSS to build out a personal blog website
 File
 
 Index.html
+
 posts folder
  blog1.html
-CSS Folder
+
+CSS Folder 
  blogpost.css
  display size.css
  home.css
