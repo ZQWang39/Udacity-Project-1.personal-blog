@@ -24,7 +24,7 @@ body {
 
 .homeHeader {
   grid-area: hd;
-  background-image: url("../img/mainpage picture.png");
+  background-image: url("../img/Header.jpg");
   background-size: cover;
   
   min-height: 250px;
