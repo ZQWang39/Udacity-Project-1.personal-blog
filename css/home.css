@@ -106,7 +106,7 @@ body {
   margin-right: auto;
 }
 
-h2 {
+.recentPost h2 {
   color: black;
   text-transform: uppercase;
   font-size: 1.5em;
@@ -171,6 +171,13 @@ h2 {
   justify-content: flex-start;
   align-items: flex-start;
   margin: 0 10px;
+}
+
+.comingPosts h2 {
+  color: black;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  
 }
 
 .comingPostsContainer {
