@@ -224,6 +224,7 @@ body {
 
 button {
   float: right;
+  margin-top: 15px;
   margin-right: 15px;
   margin-bottom: 5px;
   color: white;
@@ -237,7 +238,7 @@ button {
 }
 
 button:hover {
-  background-color:rgb(83, 19, 204);
+  background-color:rgb(26, 57, 236);
 }
 
 .footer {
