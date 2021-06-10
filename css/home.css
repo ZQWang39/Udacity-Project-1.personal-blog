@@ -263,5 +263,6 @@ button:hover {
 
 footer p {
             padding: 10px 20px;
-            font-size: 12px;
+            font-weight: bold;
+            font-size: 15px;
           }
