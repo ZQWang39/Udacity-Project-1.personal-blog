@@ -155,9 +155,11 @@ body {
   margin-top: 10px;
 }
 
-.recentCardContent span{
+.recentCardContent time{
   margin-left: 260px;
   margin-top: 5px;
+  font-size: 14px;
+  font-weight: bold;
 }
 
 .recentCardContent p{
