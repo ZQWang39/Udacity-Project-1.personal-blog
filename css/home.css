@@ -213,6 +213,9 @@ body {
   object-fit: cover;
   border-radius: 10px 0 0 10px;
 }
+.comingPostsContent > h3{
+  padding-bottom: 8px;
+}
 
 .comingPostsContent{
   display: flex;
