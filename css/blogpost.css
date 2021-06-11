@@ -76,3 +76,19 @@
   font-size: 15px;
   font-weight: bold;
 }
+
+.recipe{
+  margin-top: 10px;
+}
+
+.ingredients h3,
+.directions h3{
+  margin-top: 10px;
+  margin-bottom:5px;
+
+}
+
+.recipe li{
+  margin-bottom: 8px;
+  line-height: 20px;
+}
