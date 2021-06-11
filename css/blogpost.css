@@ -5,7 +5,7 @@
 }
 
 .postContainer{
-  background-color: #ffe6f2;
+  background-color: #f0e3ec;
   display: grid;
   grid-template-rows: 200px 1fr 50px;
   grid-gap: 25px;
