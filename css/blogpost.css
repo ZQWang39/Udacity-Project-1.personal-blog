@@ -69,3 +69,10 @@
 .post p{
   line-height: 20px;
 }
+
+.sukiyakiSong{
+  line-height: 25px;
+  font-style:italic;
+  font-size: 15px;
+  font-weight: bold;
+}
